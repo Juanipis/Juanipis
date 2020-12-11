@@ -14,7 +14,7 @@ Tengo tres amigos que siempre estuvimos juntos anqué no hubiera nadie para ense
 Si no fuiste a buscar a Google de seguro no lo sabes porque el *80%* de las personas en el 2016 según la revista semana no saben de donde viene el agua que consumen a diario, con esta premisa es que empezó el proyecto de investigación *“Parameando”* en el que trabajo actualmente con mis compañeros de colegio donde buscamos enamorar a las personas del Páramo de Santa Inés, un ecosistema del cual depende el agua, la energía y el aire que consumimos a diario.
 
 ##### ¿Y ahora qué? 🤨
-Todavía tengo mucho que aprender, conocer y explorar en este vasto mundo, de momento estudio en la plataforma Platzi y en mi querido Colegio, quiero el próximo año pasar a una gran universidad y si llegaste hasta aquí un abrazo 🤗. Puedes encontrarme en Twitter como [@Juanipisx](https://twitter.com/Juanipisx) y te dejo mi [LinkedIn](https://www.linkedin.com/in/juanipis/)
+Todavía tengo mucho que aprender, conocer y explorar en este vasto mundo, de momento estudio en la plataforma Platzi y en mi querido Colegio, quiero el próximo año pasar a una gran universidad y si llegaste hasta aquí un abrazo 🤗. Puedes encontrarme en Twitter como [@Juanipis](https://twitter.com/Juanipis) y te dejo mi [LinkedIn](https://www.linkedin.com/in/juanipis/)
 
 ---
 Escrito con ❤️ por [Juanipis](https://github.com/Juanipis) 😊
