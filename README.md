@@ -1,14 +1,12 @@
-Soy un estudiante universitario que busca en su carrera aprender inteligencia artificial 🤖. 📚 Estudio en la universidad EIA en Medellín - Antioquia - Colombia 🚩
+# Hola, soy Juan Pablo Díaz Correa 👋
 
-## ¿Quién soy? ¿Cómo llegue a este perfil? ¿Qué es Parameando? 🤔🤔
-De seguro ya me conoces y puede haber infinitas razones para eso, aunque es loco puede ser que me conozcas por mi video de ["Mermelada de Jengibre"](https://www.youtube.com/watch?v=btrEvnV_pSc) en mi canal de Youtube. Aunque de seguro no me conoces y quiero explicarte es este README.md quien soy.
+Soy estudiante de ingeniería de sistemas y computación en la universidad EIA, una institución que me ha brindado una formación integral y de calidad. Me apasiona el desarrollo de software y la innovación tecnológica. 💻
 
-### Despeguemos en el mundo de la robótica 🚀
-En el 2015 estaba muy emocionado, había llegado a un colegio increíble donde podía explotar mi imaginación con robots, biología, química y matemáticas. El Colegio Loyola fue un lugar donde empecé a programar mis primeras líneas de código en una placa de Pygmalion con programación por bloques, el proyecto final era construir un seguidor de línea que llevara pelotas, pero como todo lo bueno se acaba 3 años después quede a medio camino, sin mentores que me pudieran llevar de la mano en el mundo de la programación (por lo que mi código no es muy limpio, pero me esfuerzo en mejorarlo).
-Tengo tres amigos que siempre estuvimos juntos aunqué no hubiera nadie para enseñarnos aprendimos programación y mecánica por nuestra cuenta, así fue como creamos Loyola Rover en el 2019, no pudimos terminarlo del todo debido a que empezó la pandemia.
+## Mis habilidades 🚀
 
-##### ¿Y ahora qué? 🤨
-Todavía tengo mucho que aprender, conocer y explorar en este vasto mundo, de momento sigo estudiando en la universidad, si llegaste hasta aquí un abrazo 🤗. Puedes encontrarme en Twitter como [@Juanipis](https://twitter.com/Juanipis) y te dejo mi [LinkedIn](https://www.linkedin.com/in/juanipis/)
+- Tengo experiencia en el desarrollo de aplicaciones web, tanto en el frontend como en el backend. He utilizado lenguajes como **Python**, **Java**, **HTML** y **CSS** para crear sitios web dinámicos y responsivos. 🌐
+- Sé manejar bases de datos relacionales y no relacionales, como **PostgreSQL** y **Firebase**, para almacenar y consultar información de forma eficiente y segura. 🔐
+- Sé desarrollar aplicaciones móviles con **Flutter**, un framework que me permite crear interfaces atractivas y funcionales para diferentes plataformas. 📱
+- Tengo conocimientos en estructuras de datos, algoritmos y programación orientada a objetos, que me ayudan a resolver problemas complejos con soluciones óptimas. 🧠
 
----
-Escrito con ❤️ por [Juanipis](https://github.com/Juanipis) 😊
+Te invito a explorar mi repositorio y ver más detalles sobre mis proyectos. Si te gustan, puedes dejarme una estrella ⭐ o un comentario 💬. También puedes contactarme por correo electrónico o por LinkedIn si quieres saber más sobre mí o colaborar en algún proyecto. 😊
