@@ -1,12 +1,15 @@
-# Hola, soy Juan Pablo Díaz Correa 👋
+# Hello, I'm Juan Pablo Díaz Correa 👋
 
-Soy estudiante de ingeniería de sistemas y computación en la universidad EIA, una institución que me ha brindado una formación integral y de calidad. Me apasiona el desarrollo de software y la innovación tecnológica. 💻
+I am a student of systems and computing engineering at EIA University, an institution that has provided me with comprehensive and quality training. I am passionate about software development and technological innovation. 💻
 
-## Mis habilidades 🚀
+## My Skills 🚀
 
-- Tengo experiencia en el desarrollo de aplicaciones web, tanto en el frontend como en el backend. He utilizado lenguajes como **Python**, **Java**, **HTML** y **CSS** para crear sitios web dinámicos y responsivos. 🌐
-- Sé manejar bases de datos relacionales y no relacionales, como **PostgreSQL** y **Firebase**, para almacenar y consultar información de forma eficiente y segura. 🔐
-- Sé desarrollar aplicaciones móviles con **Flutter**, un framework que me permite crear interfaces atractivas y funcionales para diferentes plataformas. 📱
-- Tengo conocimientos en estructuras de datos, algoritmos y programación orientada a objetos, que me ayudan a resolver problemas complejos con soluciones óptimas. 🧠
+- I have experience in web application development, both frontend and backend. I have used languages like **Python**, **Java**, **HTML**, **CSS**, **JavaScript with Next.js**, and **TypeScript with Nest.js** to create dynamic and responsive websites. 🌐
+- I am skilled in managing relational and non-relational databases, such as **PostgreSQL**, **MongoDB**, and **Firebase**, to store and query information efficiently and securely. 🔐
+- I can develop mobile applications with **Flutter**, a framework that allows me to create attractive and functional interfaces for different platforms. 📱
+- I have knowledge in data structures, algorithms, and object-oriented programming, which help me solve complex problems with optimal solutions. 🧠
+- I am proficient in **Go** programming, enhancing my capability to build scalable and efficient software.
 
-Te invito a explorar mi repositorio y ver más detalles sobre mis proyectos. Si te gustan, puedes dejarme una estrella ⭐ o un comentario 💬. También puedes contactarme por correo electrónico o por LinkedIn si quieres saber más sobre mí o colaborar en algún proyecto. 😊
+Feel free to explore my repository and see more details about my projects. If you like them, you can leave a star ⭐ or a comment 💬. You can also contact me by email or on [LinkedIn](https://www.linkedin.com/in/juanipis/) if you want to know more about me or collaborate on a project. 😊
+
+Visit my website: [juanipis.vercel.app](https://juanipis.vercel.app/)
